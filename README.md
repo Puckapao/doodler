@@ -1,13 +1,3 @@
-# Sample Hardhat Project
+# Doodler Smart Contract Game
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+This project was created to explore my imagination on how to play a smart contract game. It will be an idle doodle RPG game where you can mint an Adventure, Send it out to gather exp then level up and upgrade stats, After level 10 you can change your class to Squire, Magician, Thief or Cleric. Each class has their own unique stats boost, So choose your stats wisely for faster leveling.
